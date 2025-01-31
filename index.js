@@ -6,6 +6,10 @@ function subtract(a, b) {
     return a - b;
 }
 
+function mpl(a, b) {
+    return a * b
+}
+
 function testAdd() {
     console.log(add(1, 1) === 2);
 }
