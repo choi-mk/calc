@@ -3,4 +3,4 @@
 ## API
 
 - add(a,b)
--subtract(a,b)
+- subtract(a,b)
